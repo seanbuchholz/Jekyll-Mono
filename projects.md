@@ -4,28 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-## School Projects
-
-Coding and Design projects from my course of study at Full Sail University
-
-***
+## Coursework
 
 ### [Server-Side Languages](https://github.com/buchholz-sean/serversidelang)
-An example of basic PHP routing and simple SQL database integration, as well as third-party APIs
+A roll-your-own framework making use of PHP routing, simple database integration with MySQL, and third-party APIs.
 
 ***
 
 ### [Advanced Server-Side Languages](https://github.com/buchholz-sean/advserverside)
-A small exercise using both Symfony and NodeJS Express as back-end frameworks for basic CRUD operations and database integration.
-
-## Personal Projects
-
-Coding projects and challenges (past and current) for my own continuing development as a web designer
+Fun with back-end frameworks Express and Symfony, as well as simple CRUD operations in a MongoDB database and some server-side form validation.
 
 ***
 
-### [Javascipt30](https://github.com/seanbuchholz/JavaScript30)
-30-day vanilla JS coding challenge
+## Personal Projects
+
+### [JavaScript30](https://github.com/seanbuchholz/JavaScript30)
+
+  A 30-day vanilla JS coding challenge, created by Wes Bos.
+
+
+
 
 ## Contact me
 

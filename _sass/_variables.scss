@@ -5,12 +5,12 @@
 
 // Colors
 
+$white: #e1e1dd;
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$darkerGray: darken($white, 75%);
+$darkGray: darken($white, 60%);
+$gray: darken($white, 40%);
+$lightGray: darken($white, 25%);
 $blue: #4183C4;
 
 // Main theme colors
@@ -37,8 +37,9 @@ $h4-color: $gray;
 $avatar: "/images/avatar.png";
 
 // Font stacks
-$opensans: 'Open Sans', sans-serif;
-$muli: 'Muli', sans-serif;
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$raleway: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
